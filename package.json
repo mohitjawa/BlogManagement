@@ -1,0 +1,27 @@
+{
+  "name": "uptodd",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.3",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
