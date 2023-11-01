@@ -12,13 +12,13 @@ Description of your project.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/mohitjawa/BlogManagement
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd BlogManagement
     ```
 
 3. Install dependencies:
